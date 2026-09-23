@@ -2,6 +2,6 @@
   "manifest_version": "1",
   "version": "1.0.0",
   "update_url": "https://github.com/vynguyen3000/TheThucVanBan-Update/releases/download/v1.0.0/TheThucVanBan-1.0.0.zip",
-  "sha256": "PUT_REAL_SHA256_HERE",
+  "sha256": "1F1D12117F801D690F71CE35A23822F457814B3FC0A65581663D9F2B41EDCA28",
   "update_signature": "PUT_REAL_RSA_SIGNATURE_HERE"
 }
